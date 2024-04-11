@@ -1,0 +1,5 @@
+ learning about SSH keys, how to create them, add them to GitHub, and clone repositories using them, along with adopting positive habits, I'm fostering a more secure and productive workflow while striving for personal development
+
+SSH keys are cryptographic keys used for secure communication between two parties over an insecure network.
+They come in pairs: a public key that you share with others, and a private key that you keep secret.
+SSH keys provide a more secure alternative to traditional password-based authentication.
